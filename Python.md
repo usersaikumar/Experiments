@@ -1,13 +1,20 @@
 # Python
 ## How Python Program Executed
 - Our python code gets executed line by line from the top
-## Print
+## Print Command
+- **Print Numbers**
 ```
 print(1234)
+```
+- **Print Variables**
+```
 print(a)
 .
 .
 print(z)
+```
+- **Print Strings**
+```
 print('Name')
 print("Name")
 print('''Name''')
